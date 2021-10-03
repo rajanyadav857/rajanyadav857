@@ -5,11 +5,16 @@
 <a href="https://twitter.com/RajanYadav857"> <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
 <a href="https://www.facebook.com/rajan.kumaryadav.714"> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
 <a href="https://www.instagram.com/_rajan__yadav_"> <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
-
+<br>
+<br>
+<br>
+<br>
+I am a Full Stack developer 🚀 from India, Currently working as a Associate Software Developer at [Bajaj Finserv Health](https://www.infosys.com/).
+<br>
 <br>
 ![Rajan's github stats](https://github-readme-stats.vercel.app/api?username=rajanyadav857&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) 
-
-<br />
+<br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanyadav857" alt="rajanyadav857" /> </p>
 
 <!--
