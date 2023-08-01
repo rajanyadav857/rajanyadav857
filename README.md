@@ -9,7 +9,7 @@
 <br>
 <br>
 <br>
-I am a Full Stack Java developer 🚀 from India, Currently working as a Digital Specialist Engineer at [Infosys Limited](https://www.infosys.com/).
+I am a Full Stack Java developer 🚀 from India, Currently working as a Software Backend Engineer at [Birdeye](https://birdeye.com/).
 <br>
 <br>
 ![Rajan's github stats](https://github-readme-stats.vercel.app/api?username=rajanyadav857&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) 
